@@ -1,0 +1,28 @@
+name: Alchemedia
+favicon: null
+layout_spectrum: 0.70501503883861
+typography_spectrum: 0.6504493565298617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6209298914764076
+  lightness: 0.36039711092598736
+  saturation: 0.4348890900146216
+  rhythmicContrast: 0.5802893142681569
+purpose: []
